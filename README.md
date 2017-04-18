@@ -7,7 +7,7 @@ A simple WSDL parser.
 [![Code Climate](https://codeclimate.com/github/savonrb/wasabi.png)](https://codeclimate.com/github/savonrb/wasabi)
 [![Coverage Status](https://coveralls.io/repos/savonrb/wasabi/badge.png?branch=master)](https://coveralls.io/r/savonrb/wasabi)
 
-
+Demo
 ## Installation
 
 Wasabi is available through [Rubygems](http://rubygems.org/gems/wasabi) and can be installed via:
